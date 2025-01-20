@@ -1,5 +1,5 @@
 # Monopoly
-This is a C++ implementation of the Monopoly board game by Hasbro. It features a University based variant on the properties but utilizes similar rules to the original game.
+This is a C++ implementation of the Monopoly board game by Hasbro. It features a university based variant on the properties but utilizes similar rules to the original game.
 
 The game allows 2 to 7 players. Players take turns rolling two dice and moving around the 40 square board. As players move around the board, they have the ability to buy and improve properties, trade, mortgage, etc. Different squares on the board also have special features or penalties that a player may face. The aim of the game is to be the last player that has not gone bankrupt. 
 
